@@ -1,0 +1,5 @@
+name "easyenum"
+description "Functions for easily handling long enum operations."
+copyright "Copyright © 2015, webfreak"
+authors "webfreak"
+license "public domain"
